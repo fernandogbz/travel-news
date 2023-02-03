@@ -17,7 +17,7 @@ a{
     padding: 0 50px;
 }
     .header{
-    background: url(images/1.jpg);
+    background: url(Images/1.jpg);
     background-position: center;
     background-attachment: contain;
     background-size: cover;
@@ -153,9 +153,9 @@ a{
                 text-transform: uppercase;
             }
 
-            .publicidad{
-                /* background: #EEEEEE; */
-            }
+            /* .publicidad{
+                background: #EEEEEE; 
+            }*/
     .footer{
     background: #000;
     display: flex;
